@@ -8,11 +8,7 @@ Hi, my name is Luiz, a 20 years old Brazilian who loves developing web sites
 
 <img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/POSTGRES-button.png" height="28" alt="PostgreSQL"> <img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/NODE-JS-button.png" height="28" alt="Node.js">
 
-## Tools and Softwares
-<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/VSCODE-button.png" height="28" alt="VS Code"> <img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/GIT-button.png" height="28" alt="Git"> <img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/BLENDER-button.png" height="28" alt="Blender">
 
-## Operating Systems & Platforms
-<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/WINDOWS-button.png" height="28" alt="Windows"> <img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/ANDROID-button.png" height="28" alt="Android">
 
 ## Socials:
 <a target="_blank" href="https://www.instagram.com/luizptrein?igsh=MWZremZmYXZkZ2ticg=="><img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/INSTAGRAM-button.png" height="28" alt="Instagram"></a>
