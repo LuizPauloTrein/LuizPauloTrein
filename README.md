@@ -8,9 +8,3 @@ Hi, my name is Luiz, a 20 years old Brazilian who loves developing web sites
 
 <img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/POSTGRES-button.png" height="28" alt="PostgreSQL"> <img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/NODE-JS-button.png" height="28" alt="Node.js"> <img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/EXPRESS-JS-button.png" height="28" alt="Express.js"> <img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/DOCKER-button.png" height="28" alt="Docker"> <img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/PRISMA-button.png" height="28" alt="Prisma">
 
-
-
-## Socials:
-<a target="_blank" href="https://www.instagram.com/luizptrein?igsh=MWZremZmYXZkZ2ticg=="><img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/INSTAGRAM-button.png" height="28" alt="Instagram"></a>
-<a target="_blank" href="https://www.linkedin.com/in/luiz-trein-60065b271/"><img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/LINKEDIN-button.png" height="28" alt="LinkedIn"></a>
-<a href="mailto:luiz.p.trein@gmail.com"><img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/GMAIL-button.png" height="28" alt="Gmail"></a>
